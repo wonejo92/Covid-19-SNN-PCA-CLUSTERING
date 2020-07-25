@@ -13,7 +13,7 @@ Realizaremos un análisis de PCA el cual nos permite realizar una reducción de 
 
 # Requisitos.
 - Python 3.8
-- Dataset: 2.COVID19_clasificacion
+- Dataset: 2.COVID19_clasificacion [1]
 
 # Librerias Necesarias.
 - pandas
@@ -25,3 +25,7 @@ Realizaremos un análisis de PCA el cual nos permite realizar una reducción de 
 - preprocessing
 - train_test_split
 - Pipeline
+
+# Referencias
+[1] 2.COVID19_clasificacion: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LQDFSE
+
