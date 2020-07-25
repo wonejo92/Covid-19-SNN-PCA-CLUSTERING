@@ -10,3 +10,18 @@ Realizaremos un análisis de PCA el cual nos permite realizar una reducción de 
 3: Entrenamiento de la Red Neuronal: Se realiza un splitting de 20% para Train y 80% para test
 
 4: Predicción y Evaluación: El sistema Realizara las predicciones para determinar qué clase de personas son más propensas a contraer el virus, o bien si ya es portador del virus en relación a sus síntomas
+
+# Requisitos.
+- Python 3.8
+- Dataset: 2.COVID19_clasificacion
+
+# Librerias Necesarias.
+- pandas
+- numpy
+- matplotlib
+- OneHotEncoder
+- StandardScaler
+- LabelEncoder
+- preprocessing
+- train_test_split
+- Pipeline
