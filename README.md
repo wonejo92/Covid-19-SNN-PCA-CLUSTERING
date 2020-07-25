@@ -27,5 +27,6 @@ Realizaremos un análisis de PCA el cual nos permite realizar una reducción de 
 - Pipeline
 
 # Referencias
-[1] 2.COVID19_clasificacion: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LQDFSE
+[1] 2.COVID19_clasificacion:https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/LQDFSE
+[2] Fauci, A. S., Lane, H. C., & Redfield, R. R. (2020). Covid-19 — Navigating the Uncharted. New England Journal of Medicine, 382(13), 1268-1269. https://doi.org/10.1056/nejme2002387
 
