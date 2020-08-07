@@ -9,7 +9,12 @@ Realizaremos un análisis de PCA el cual nos permite realizar una reducción de 
 
 3: Entrenamiento de la Red Neuronal: Se realiza un splitting de 20% para Train y 80% para test
 
-4: Predicción y Evaluación: El sistema Realizara las predicciones para determinar qué clase de personas son más propensas a contraer el virus, o bien si ya es portador del virus en relación a sus síntomas
+4: Predicción y Evaluación: El sistema Realizara las predicciones para determinar qué clase de personas son más propensas a contraer el virus, o bien si ya es portador del virus en relación a sus síntomas.
+
+# Distribucion de archivos
+- COVID-19Notebook.ipynb :En este archivo vamos a encontrar lo detallado en el 'metodo propuesto' ,utilizando librerias ,tecnicas de machine learning para analizar el      dataset original.
+-COVID-19NotebookHTML.ipynb.html :Se puede leer el cuarderno con el metodo propuesto de mejor manera en esta version.
+-DatasetPreprocesado.csv :En este archivo encontramos el resultado del dataset luego de aplicarle tecnicas de limpieza ,de reduccion de dimensionalidad y de formacion de nuevas variables.
 
 # Requisitos.
 - Python 3.8
