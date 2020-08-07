@@ -12,6 +12,8 @@ Realizaremos un análisis de PCA el cual nos permite realizar una reducción de 
 4: Predicción y Evaluación: El sistema Realizara las predicciones para determinar qué clase de personas son más propensas a contraer el virus, o bien si ya es portador del virus en relación a sus síntomas.
 
 # Distribucion de archivos
+### 2.COVID19_clasificacionnn.csv :
+En este archivo se puede encontrar el dataset original [2].
 ### COVID-19Notebook.ipynb :
 En este archivo vamos a encontrar lo detallado en el 'metodo propuesto' ,utilizando librerias ,tecnicas de machine learning para analizar  el      dataset original.
 ### COVID-19NotebookHTML.ipynb.html :
