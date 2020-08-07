@@ -13,7 +13,7 @@ Realizaremos un análisis de PCA el cual nos permite realizar una reducción de 
 
 # Distribución de archivos
 ### 2.COVID19_clasificacionnn.csv :
-En este archivo se puede encontrar el dataset original [2].
+En este archivo se puede encontrar el dataset original [1] [2].
 ### COVID-19Notebook.ipynb :
 En este archivo vamos a encontrar lo detallado en el 'método propuesto' ,utilizando librerías ,técnicas de machine learning para analizar  el dataset original.
 ### COVID-19NotebookHTML.ipynb.html :
